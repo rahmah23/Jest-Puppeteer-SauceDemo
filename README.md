@@ -2,9 +2,11 @@
 * NPM
 
 # Setup
-install dependencies
+install dependencies:
+
 `npm install`
 
 # Running the test script
-Run this command in CLI
+Run this command in CLI:
+
 `npm test`
